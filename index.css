@@ -33,3 +33,16 @@ body{
     90% { transform: translate(1px, 2px) rotate(0deg); }
     100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
+.main{
+	box-shadow: 2px 2px 1px 1px;
+	background-color:#CCC;
+	margin-left: 25%;
+	margin-right: 25%;
+	align: center;
+}
+#formFist{
+	text-align: center;
+}
+#formFist input{
+	width: 50%;
+}
