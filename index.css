@@ -4,7 +4,7 @@
 body{
 	background-color:gray;
 }
-#main{
+#header{
 	background-color:#CCC;
 	margin-left: 15%;
 	margin-right: 15%;
@@ -13,10 +13,10 @@ body{
 #joinFist{
 	text-align:center;
 }
-#logoFist{
+.logoFist{
 	vertical-align: top;
 }
-#logoFist:hover{
+.logoFist:hover{
 	animation: shakeFist 0.5s; 
 	animation-iteration-count: infinite;
 }
